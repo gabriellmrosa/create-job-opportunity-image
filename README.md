@@ -1,3 +1,11 @@
+# Create Job Opportunity Image
+A program similar to the google drive docs for you to put the text of your job opportunity, choose a background color, put your company logo and download the image
+
+<img width="400px" height="auto" src="https://ibb.co/C7hYsxh" alt="Logo">
+
+Thanks!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
