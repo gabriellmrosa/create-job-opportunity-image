@@ -1,7 +1,7 @@
 # Create Job Opportunity Image
 A program similar to the google drive docs for you to put the text of your job opportunity, choose a background color, put your company logo and download the image
 
-<img width="400px" height="auto" src="https://ibb.co/C7hYsxh" alt="Logo">
+<img width="400px" height="auto" src="./image-readme.png" alt="Logo">
 
 Thanks!
 
