@@ -3,6 +3,8 @@ A program similar to the google drive docs for you to put the text of your job o
 
 <img width="300px" height="auto" src="./image-readme.PNG" alt="Logo">
 
+[CLICK HERE TO VIEW](https://gabriellamas.github.io/criar-vaga/)
+
 Thanks!
 
 
